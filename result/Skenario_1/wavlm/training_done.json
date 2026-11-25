@@ -1,0 +1,9 @@
+{
+  "model": "wavlm_baseline",
+  "finished_at": "2026-11-09T09:05:24",
+  "epochs_run": 28,
+  "best_epoch": 18,
+  "best_val_WER": 0.21256038647342995,
+  "best_val_accuracy": 0.7874396135265701,
+  "train_seconds": 571.3352942466736
+}

@@ -1,0 +1,9 @@
+{
+  "model": "wav2vec2_baseline",
+  "finished_at": "2026-11-09T08:37:49",
+  "epochs_run": 30,
+  "best_epoch": 27,
+  "best_val_WER": 0.2222222222222222,
+  "best_val_accuracy": 0.7777777777777778,
+  "train_seconds": 661.7838931083679
+}
