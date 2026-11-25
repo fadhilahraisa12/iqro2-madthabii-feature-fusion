@@ -1,0 +1,9 @@
+{
+  "model": "wavlm_logmel",
+  "finished_at": "2026-11-09T10:58:57",
+  "epochs_run": 30,
+  "best_epoch": 23,
+  "best_val_WER": 0.27053140096618356,
+  "best_val_accuracy": 0.7294685990338164,
+  "train_seconds": 639.3119864463806
+}

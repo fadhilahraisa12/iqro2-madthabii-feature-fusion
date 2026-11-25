@@ -1,0 +1,9 @@
+{
+  "model": "hubert_mfcc",
+  "finished_at": "2026-11-09T09:47:20",
+  "epochs_run": 30,
+  "best_epoch": 28,
+  "best_val_WER": 0.34782608695652173,
+  "best_val_accuracy": 0.6521739130434783,
+  "train_seconds": 586.8468253612518
+}

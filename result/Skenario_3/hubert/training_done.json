@@ -1,0 +1,9 @@
+{
+  "model": "hubert_logmel",
+  "finished_at": "2026-11-09T10:43:39",
+  "epochs_run": 30,
+  "best_epoch": 24,
+  "best_val_WER": 0.3719806763285024,
+  "best_val_accuracy": 0.6280193236714976,
+  "train_seconds": 590.2152168750763
+}
